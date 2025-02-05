@@ -1,0 +1,27 @@
+h1{
+    font-size: 25px;
+}
+
+.logo{
+height: 80px;
+}
+
+section .add-task{
+    align-items: center;
+}
+
+.add-task-btn{
+    background-color:green;
+    color:aliceblue;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.task-reset-btn{
+    background-color:red;
+    color:aliceblue;
+    border-radius: 3px;
+    margin-left: 5px;   
+}
+.progress-btn{
+    margin-left: 5px;
+}

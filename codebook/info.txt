@@ -1,0 +1,34 @@
+Resource which i have used in this project 
+Resource 1 :- tailwaild css install 
+command npm install -D tailwindcss
+npx tailwindcss init
+
+and after that i have created a tailwaild config file in the root of project and added some css in main css file of this project like App.css
+
+if tailwaild css is not reflecting in the project we should have to clear cache from the project by using this command 
+npm cache clear --force
+Resource 2: react router dom
+command npm i react-router-dom
+
+
+Resource 3: json server
+command :- npm i json-server
+it is getting a full fake REST-API with zero coding 
+
+run server :- json-server --watch db.json --port 8000
+
+i have created a data folder inside this folder i have stored our json data while those data i will be use in the whole project..
+
+
+Resource 4: json server auth
+command : - npm i json-server-auth 
+JWT authentication middleware for JSON Server
+
+Because you also need a fake authentication & authorization flow for your prototyping.
+
+but json server auth is not working we need to work on it
+
+Resource 5:react-notify-toastr
+command :-$ npm install --save react-toastify
+
+for toast message 
